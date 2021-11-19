@@ -1,0 +1,82 @@
+body {
+  height: 4000px;
+}
+
+#hero .container {
+  padding-top: 7rem;
+  background-color: #ffffff;
+  color: #161616;
+}
+
+#hero p {
+  margin-top: 10px;
+}
+
+#hero img {
+  margin-top: 50px;
+  margin-bottom: -40px;
+}
+
+#hero .container h1 {
+  line-height: 1.5;
+}
+
+#hero a {
+  font-size: 16px;
+}
+#hero #beli {
+  text-decoration: none;
+  background-color: #dd6072;
+  color: white;
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+#hero #beli:hover {
+  background-image: linear-gradient(#dd6072, #b64f5e);
+}
+
+#hero #tutorial {
+  text-decoration: none;
+  color: #dc3545;
+  border: 1px solid #dc3545;
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+#hero #tutorial:hover {
+  background-color: #dc3545;
+  color: white;
+}
+i {
+  margin-right: 10px;
+}
+
+#about {
+  background-color: #dd6072;
+  color: white;
+  margin-top: -10px;
+  padding-top: 100px;
+}
+
+#about p {
+  text-indent: 30px;
+  text-align: justify;
+}
+#about p span{
+  text-decoration: underline;
+}
+#metode {
+  padding-top: 100px;
+}
+
+#metode h4 {
+  text-align: justify;
+}
+
+#hasil {
+  background-color: #dd6072;
+  color: white;
+  margin-top: -10px;
+  padding-top: 100px;
+}
