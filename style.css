@@ -80,3 +80,8 @@ i {
   margin-top: -10px;
   padding-top: 100px;
 }
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
