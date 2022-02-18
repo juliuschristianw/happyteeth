@@ -105,6 +105,17 @@ i {
 #strategi .accordion{
   color: black;
 }
+
+hr{
+margin-top: 0px;
+}
+#kesimpulan{
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  background-color: #dd6072;
+  color: white;
+}
 footer {
   text-decoration: none;
   color: white;
