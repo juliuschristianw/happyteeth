@@ -124,7 +124,7 @@ margin-top: 0px;
   padding-bottom: 0px;
   background-color: #dd6072;
   color: white;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
   border-radius: 25px;
 }
 
@@ -132,6 +132,9 @@ margin-top: 0px;
   text-align: justify;
 }
 
+#loa .container{
+  margin-bottom: 100px;
+}
 
 
 footer {
