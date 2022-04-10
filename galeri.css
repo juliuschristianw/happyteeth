@@ -1,0 +1,11 @@
+footer {
+    text-decoration: none;
+    color: white;
+    min-height: 70px;
+    background-color: #dd6072;
+  }
+  
+  footer a{
+    text-decoration: none;
+    color: white;
+  }
