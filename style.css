@@ -124,7 +124,7 @@ margin-top: 0px;
   padding-bottom: 0px;
   background-color: #dd6072;
   color: white;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   border-radius: 25px;
 }
 
@@ -133,9 +133,12 @@ margin-top: 0px;
 }
 
 #loa .container{
-  margin-bottom: 100px;
+  margin-bottom: 30px;
 }
 
+#hompimpa .container{
+  margin-bottom: 100px;
+}
 
 footer {
   text-decoration: none;
