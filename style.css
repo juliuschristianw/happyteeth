@@ -118,6 +118,16 @@ hr{
 margin-top: 0px;
 }
 
+#tinjauan .container{
+  margin-top: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #dd6072;
+  color: white;
+  margin-bottom: 30px;
+  border-radius: 25px;
+}
+
 #kesimpulan .container{
   margin-top: 100px;
   padding-top: 0px;
